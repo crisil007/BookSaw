@@ -10,7 +10,7 @@ type:String
     },
     user_type:{
         type:mongoose.Schema.Types.ObjectId,
-        ref:"userType"
+        ref:"user_type"
     },
     status:{
         type: String, 

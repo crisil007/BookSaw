@@ -13,6 +13,7 @@
     "bcrypt": "^5.1.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "jsonwebtoken": "^3.2.2",
     "mongoose": "^8.9.5",
     "mongoosejs-cli": "^1.0.7"
   }
